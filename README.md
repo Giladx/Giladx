@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on 011.ninja
-- 🌱 I’m currently learning more JS & more JS
-- 👯 I’m looking to collaborate on your awsome idea
-- 🤔 I’m looking for help with Headless CMS
-- 💬 Ask me about C++. PureData 
+- 🔭 I’m currently the owner of [011.ninja](https://011.ninja) & [bytii.cloud](https://bytii.cloud)
+- 🌱 I’m currently learning JS & more JS (and some TS)
+- 👯 I’m looking to collaborate on your awesome projects
+- 🤔 I’m looking for some help with Headless CMS
+- 💬 Ask me about C++. PureData, Computer Vision, Image proccessing, GLSL, Projection Mapping ... 
 - 📫 How to reach me: gilad@011.ninja
-- 😄 Pronouns: the other ones
-- ⚡ Fun fact: I just love walls of distortion
+- 😄 Pronouns: Who
+- ⚡ Fun fact: I just love walls of distortion.
