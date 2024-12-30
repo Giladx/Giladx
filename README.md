@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for some help with Headless CMS
 - 💬 Ask me about C++. PureData, Computer Vision, Image proccessing, GLSL, Projection Mapping ... 
 - 📫 How to reach me: gilad@011.ninja
-- 😄 Pronouns: Who
+- 😄 Pronouns: What?
 - ⚡ Fun fact: I just love walls of distortion.
